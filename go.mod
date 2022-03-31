@@ -21,12 +21,12 @@ require (
 	github.com/aws/aws-sdk-go v1.43.29
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
 	github.com/bradleyfalzon/ghinstallation/v2 v2.0.4
-	github.com/cloudevents/sdk-go/v2 v2.8.0
+	github.com/cloudevents/sdk-go/v2 v2.9.0
 	github.com/colinmarc/hdfs v1.1.4-0.20180802165501-48eb8d6c34a9
 	github.com/eclipse/paho.mqtt.golang v1.3.5
 	github.com/emitter-io/go/v2 v2.0.9
 	github.com/fsnotify/fsnotify v1.5.1
-	github.com/gavv/httpexpect/v2 v2.2.0
+	github.com/gavv/httpexpect/v2 v2.3.1
 	github.com/gfleury/go-bitbucket-v1 v0.0.0-20210707202713-7d616f7c18ac
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/go-git/go-git/v5 v5.4.2
