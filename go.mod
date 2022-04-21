@@ -17,8 +17,8 @@ require (
 	github.com/antonmedv/expr v1.9.0
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
 	github.com/apache/pulsar-client-go v0.8.1
-	github.com/argoproj/pkg v0.11.0
-	github.com/aws/aws-sdk-go v1.43.40
+	github.com/argoproj/pkg v0.12.0
+	github.com/aws/aws-sdk-go v1.43.41
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
 	github.com/bradleyfalzon/ghinstallation/v2 v2.0.4
 	github.com/cloudevents/sdk-go/v2 v2.9.0
@@ -46,9 +46,9 @@ require (
 	github.com/imdario/mergo v0.3.12
 	github.com/itchyny/gojq v0.12.7
 	github.com/joncalhoun/qson v0.0.0-20200422171543-84433dcd3da0
-	github.com/ktrysmt/go-bitbucket v0.9.41
+	github.com/ktrysmt/go-bitbucket v0.9.44
 	github.com/minio/minio-go/v7 v7.0.24
-	github.com/mitchellh/mapstructure v1.4.3
+	github.com/mitchellh/mapstructure v1.5.0
 	github.com/nats-io/graft v0.0.0-20220215174245-93d18541496f
 	github.com/nats-io/nats.go v1.13.1-0.20220308171302-2f2f6968e98d
 	github.com/nats-io/stan.go v0.10.2
