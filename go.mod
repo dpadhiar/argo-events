@@ -8,7 +8,7 @@ retract v1.15.0 // Published accidentally.
 
 require (
 	cloud.google.com/go/compute v1.6.1
-	cloud.google.com/go/pubsub v1.20.0
+	cloud.google.com/go/pubsub v1.21.0
 	github.com/Azure/azure-event-hubs-go/v3 v3.3.17
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
 	github.com/Masterminds/sprig/v3 v3.2.2
@@ -18,14 +18,14 @@ require (
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
 	github.com/apache/pulsar-client-go v0.8.1
 	github.com/argoproj/pkg v0.12.0
-	github.com/aws/aws-sdk-go v1.44.0
+	github.com/aws/aws-sdk-go v1.44.1
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
 	github.com/bradleyfalzon/ghinstallation/v2 v2.0.4
 	github.com/cloudevents/sdk-go/v2 v2.9.0
 	github.com/colinmarc/hdfs v1.1.4-0.20180802165501-48eb8d6c34a9
 	github.com/eclipse/paho.mqtt.golang v1.3.5
 	github.com/emitter-io/go/v2 v2.0.9
-	github.com/fsnotify/fsnotify v1.5.3
+	github.com/fsnotify/fsnotify v1.5.4
 	github.com/gavv/httpexpect/v2 v2.3.1
 	github.com/gfleury/go-bitbucket-v1 v0.0.0-20210707202713-7d616f7c18ac
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
@@ -38,7 +38,7 @@ require (
 	github.com/gobwas/glob v0.2.4-0.20181002190808-e7a84e9525fe
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.5.2
-	github.com/google/go-cmp v0.5.7
+	github.com/google/go-cmp v0.5.8
 	github.com/google/go-github/v31 v31.0.0
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
@@ -267,7 +267,7 @@ require (
 	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	golang.org/x/text v0.3.7 // indirect
-	golang.org/x/time v0.0.0-20220224211638-0e9765cccd65 // indirect
+	golang.org/x/time v0.0.0-20220411224347-583f2d630306 // indirect
 	golang.org/x/tools v0.1.8 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
 	gomodules.xyz/jsonpatch/v2 v2.2.0 // indirect
