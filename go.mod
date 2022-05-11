@@ -9,7 +9,7 @@ retract v1.15.0 // Published accidentally.
 require (
 	cloud.google.com/go/compute v1.6.1
 	cloud.google.com/go/pubsub v1.21.0
-	github.com/Azure/azure-event-hubs-go/v3 v3.3.17
+	github.com/Azure/azure-event-hubs-go/v3 v3.3.18
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
 	github.com/Masterminds/sprig/v3 v3.2.2
 	github.com/Shopify/sarama v1.32.0
@@ -18,7 +18,7 @@ require (
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
 	github.com/apache/pulsar-client-go v0.8.1
 	github.com/argoproj/pkg v0.13.2
-	github.com/aws/aws-sdk-go v1.44.4
+	github.com/aws/aws-sdk-go v1.44.11
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
 	github.com/bradleyfalzon/ghinstallation/v2 v2.0.4
 	github.com/cloudevents/sdk-go/v2 v2.9.0
@@ -47,7 +47,7 @@ require (
 	github.com/itchyny/gojq v0.12.7
 	github.com/joncalhoun/qson v0.0.0-20200422171543-84433dcd3da0
 	github.com/ktrysmt/go-bitbucket v0.9.44
-	github.com/minio/minio-go/v7 v7.0.24
+	github.com/minio/minio-go/v7 v7.0.26
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/nats-io/graft v0.0.0-20220215174245-93d18541496f
 	github.com/nats-io/nats.go v1.13.1-0.20220308171302-2f2f6968e98d
@@ -66,7 +66,7 @@ require (
 	github.com/stripe/stripe-go v70.15.0+incompatible
 	github.com/tidwall/gjson v1.14.1
 	github.com/tidwall/sjson v1.2.4
-	github.com/xanzy/go-gitlab v0.63.0
+	github.com/xanzy/go-gitlab v0.65.0
 	github.com/yuin/gopher-lua v0.0.0-20210529063254-f4c35e4016d9
 	go.uber.org/ratelimit v0.2.0
 	go.uber.org/zap v1.21.0
