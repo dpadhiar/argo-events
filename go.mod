@@ -50,7 +50,7 @@ require (
 	github.com/minio/minio-go/v7 v7.0.43
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/nats-io/graft v0.0.0-20220215174245-93d18541496f
-	github.com/nats-io/nats.go v1.19.0
+	github.com/nats-io/nats.go v1.19.1
 	github.com/nats-io/stan.go v0.10.3
 	github.com/nsqio/go-nsq v1.1.0
 	github.com/pkg/errors v0.9.1
