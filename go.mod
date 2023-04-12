@@ -12,7 +12,7 @@ require (
 	github.com/Azure/azure-event-hubs-go/v3 v3.5.0
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
 	github.com/Masterminds/sprig/v3 v3.2.3
-	github.com/Shopify/sarama v1.30.1
+	github.com/Shopify/sarama v1.38.1
 	github.com/ahmetb/gen-crd-api-reference-docs v0.3.0
 	github.com/antonmedv/expr v1.12.5
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
@@ -101,6 +101,7 @@ require (
 	github.com/emicklei/go-restful/v3 v3.9.0 // indirect
 	github.com/evanphx/json-patch/v5 v5.6.0 // indirect
 	github.com/felixge/httpsnoop v1.0.3 // indirect
+	github.com/frankban/quicktest v1.14.5 // indirect
 	github.com/go-openapi/spec v0.20.8 // indirect
 	github.com/godbus/dbus v0.0.0-20190726142602-4481cbc300e2 // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
@@ -108,6 +109,8 @@ require (
 	github.com/google/go-github/v50 v50.2.0 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.2.3 // indirect
 	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
+	github.com/hashicorp/errwrap v1.0.0 // indirect
+	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.4 // indirect
 	github.com/linkedin/goavro/v2 v2.9.8 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
@@ -116,6 +119,7 @@ require (
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/oliveagle/jsonpath v0.0.0-20180606110733-2e52cf6e6852 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.6 // indirect
+	github.com/pierrec/lz4/v4 v4.1.17 // indirect
 	github.com/pjbgf/sha1cd v0.3.0 // indirect
 	github.com/sanity-io/litter v1.5.5 // indirect
 	github.com/skeema/knownhosts v1.1.0 // indirect
