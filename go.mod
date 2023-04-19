@@ -34,7 +34,7 @@ require (
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-resty/resty/v2 v2.7.0
-	github.com/go-swagger/go-swagger v0.27.0
+	github.com/go-swagger/go-swagger v0.30.4
 	github.com/gobwas/glob v0.2.4-0.20181002190808-e7a84e9525fe
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.5.3
@@ -60,7 +60,7 @@ require (
 	github.com/slack-go/slack v0.12.2
 	github.com/smartystreets/goconvey v1.8.0
 	github.com/spf13/cobra v1.7.0
-	github.com/spf13/viper v1.11.0
+	github.com/spf13/viper v1.14.0
 	github.com/streadway/amqp v1.0.0
 	github.com/stretchr/testify v1.8.2
 	github.com/stripe/stripe-go v70.15.0+incompatible
@@ -249,7 +249,7 @@ require (
 	github.com/smartystreets/assertions v1.13.1 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/spf13/afero v1.9.3 // indirect
-	github.com/spf13/cast v1.4.1 // indirect
+	github.com/spf13/cast v1.5.0 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.4.2 // indirect
